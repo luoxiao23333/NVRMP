@@ -8,4 +8,6 @@ Integrating scheduler container, resource virtualization daemonset, AD services 
 
 ProcessResourceLimiter: Including containers of AD services and their related wrap. The wrap is used to collaborate with the scheduler.
 
-MetricsAnalysis: The source code of data analysis and visualization.
+MetricsAnalysis: The source code of data analysis and visualization.  
+
+MLTaskDeviceSimulator: To simulate devices that send AD services request. 
