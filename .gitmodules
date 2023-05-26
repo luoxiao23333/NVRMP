@@ -1,0 +1,12 @@
+[submodule "MLTaskDeviceSimulator"]
+	path = MLTaskDeviceSimulator
+	url = https://github.com/luoxiao23333/MLTaskDeviceSimulator.git
+[submodule "MLScheduler"]
+	path = MLScheduler
+	url = https://github.com/luoxiao23333/MLScheduler.git
+[submodule "UsableK8SDeploymentWithContainerd"]
+	path = UsableK8SDeploymentWithContainerd
+	url = https://github.com/luoxiao23333/UsableK8SDeploymentWithContainerd.git
+[submodule "MetricsAnalysis"]
+	path = MetricsAnalysis
+	url = https://github.com/luoxiao23333/MetricsAnalysis.git
